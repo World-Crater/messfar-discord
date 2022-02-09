@@ -1,0 +1,2 @@
+FACE_SERVICE: 'http://face-service:3000'
+DISCORD_BOT_TOKEN: ''

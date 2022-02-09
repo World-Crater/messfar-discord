@@ -1,0 +1,4 @@
+FROM golang:1.13.8
+
+RUN apt-get update
+RUN apt-get install -y libvips libvips-dev
